@@ -1,5 +1,8 @@
 # Neovim Configuration With Lua
 
+![Reference Image](C:/Users/Alex/Images/nvim.jpg "nvim image reference")
+![Reference Image 2](C:/Users/Alex/Images/nvim-2.jpg "nvim image reference 2")
+
 This configuration is a basic NVIM configuration, built from the lua language.
 
 ---
@@ -28,3 +31,7 @@ Plugins used:
   - git.nvim
   - rest (with problems)
   - coc.nvim
+
+---
+
+# Dependencies
