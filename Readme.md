@@ -1,7 +1,7 @@
 # Neovim Configuration With Lua
 
-![Reference Image](C:/Users/Alex/Pictures/nvim.jpg "nvim image reference")
-![Reference Image 2](C:/Users/Alex/Pictures/nvim-2.jpg "nvim image reference 2")
+![Reference Image](images/nvim.jpg "nvim image reference")
+![Reference Image 2](images/nvim-2.jpg "nvim image reference 2")
 
 This configuration is a basic NVIM configuration, built from the lua language.
 
