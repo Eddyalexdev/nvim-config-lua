@@ -1,7 +1,9 @@
 # Neovim Configuration With Lua
 
 This configuration is a basic NVIM configuration, built from the lua language.
-------------------------------------------------------------------------------
+
+---
+
 Plugins used:
   - Installer: Packer
   - Theme: Neosolarized
